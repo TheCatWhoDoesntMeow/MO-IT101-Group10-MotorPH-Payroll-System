@@ -1,16 +1,16 @@
-# MO-IT101-Group10-MotorPH-Payroll-System
+**MotorPH Payroll System**🚀
 
+**Collaborators**🤝
 
-**MotorPH Payroll System**
+Jahaziel Yamoyam (BSIT - Software Development)
 
+Cherson Kirtz Gonzaga (Cybersecurity)
 
-**Overview**
+**Overview** 📋
 
 MotorPH Payroll System is a streamlined payroll management tool designed to automate salary computation efficiently. It retrieves employee data, calculates hours worked, computes gross salary, applies statutory deductions, and determines net salary. The system provides a detailed salary breakdown via the console for accuracy and transparency.
 
-
-**Features**
-
+**Features** 🔹
 
 **Employee Data Display:** Retrieve and display employee details from Google Sheets/CSV.
 
@@ -24,17 +24,15 @@ MotorPH Payroll System is a streamlined payroll management tool designed to auto
 
 **Console Output:** Display salary breakdown for employees.
 
+**Technologies Used**🛠️
 
-**Technologies Used**
-
-**Java**– Core programming language
+**Java** – Core programming language
 
 **Google Sheets API / CSV Parsing** – For employee data retrieval
 
-**Object-Oriented Programming (OOP)**– Structuring and efficiency
+**Object-Oriented Programming (OOP)** – Structuring and efficiency
 
-
-**Installation & Setup**
+**Installation & Setup** ⚙️
 
 Clone the repository:
 
@@ -44,7 +42,7 @@ Install dependencies (if applicable).
 
 Run the program in your preferred Java environment.
 
-**Usage**
+**Usage** ▶️
 
 Ensure employee data is stored in a Google Sheet or CSV file.
 
@@ -52,15 +50,11 @@ Execute the program to retrieve data and compute salaries.
 
 View detailed salary breakdown via the console.
 
+**License**📜
 
-**Collaborators**
+This project is licensed under the MIT License.
 
-Jahaziel Yamoyam (BSIT - Software Development)
-
-Cherson Kirtz Gonzaga (BSIT- Network & Cybersecurity)
-
-
-**Acknowledgments**
+**Acknowledgments** 🙌
 
 Special thanks to our mentors and peers for their support and guidance throughout the development of this project.
 
